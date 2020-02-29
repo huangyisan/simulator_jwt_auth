@@ -13,5 +13,7 @@
 2. `cd backend/ordersys ; npm i ; npm run serve`
 
 ## 用户名密码
+
 username: admin
+
 password: admin
